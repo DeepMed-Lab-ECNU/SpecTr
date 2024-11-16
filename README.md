@@ -31,5 +31,8 @@ CUDA_VISIBLE_DEVICES=0 CUDA_VISIBLE_DEVICES=0 python evaluate.py -r ./dataset/MD
 ## Acknowledgements
 Some modules in our code were inspired by [vit-pytorch](https://github.com/lucidrains/vit-pytorch) and [segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch). We appreciate the effort of these authors to provide open-source code for the community. Hope our work can also contribute to related research.
 
+## Related Work
+"[Factor Space and Spectrum for Medical Hyperspectral Image Segmentation (MICCAI 2023)](https://link.springer.com/chapter/10.1007/978-3-031-43901-8_15)"
+
 ## Questions
-If you encounter any issues accessing the dataset, such as unable to sign in [MDC](http://bio-hsi.ecnu.edu.cn/), please contact me at 'boxiangyun@gmail.com'
+If you encounter any issues accessing the dataset, such as unable to sign in [MDC](http://bio-hsi.ecnu.edu.cn/), please contact me at '52265904012@stu.ecnu.edu.cn'
